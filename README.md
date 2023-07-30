@@ -1,6 +1,6 @@
 # MoonRise
 
-A beautiful App we’re going to build an app that lets users learn about the missions and astronauts that formed NASA’s Apollo space program.
+A beautiful App that introduce children's to learn about the missions and astronauts that formed NASA’s Apollo space program.
 
 ## Our Goal
 
