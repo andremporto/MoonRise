@@ -1,6 +1,4 @@
-# MoonRise
-
-A beautiful App that introduce children's to learn about the missions and astronauts that formed NASA’s Apollo space program.
+![MoonRise](https://socialify.git.ci/andremporto/MoonRise/image?description=1&descriptionEditable=A%20beautiful%20App%20that%20introduce%20children%27s%20to%20learn%20about%20the%20missions%20and%20astronauts%20that%20formed%20NASA%E2%80%99s%20Apollo%20space%20program.&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Auto)
 
 ## Our Goal
 
